@@ -64,10 +64,14 @@
     letter-spacing:.04em;text-transform:uppercase;color:#0a0f14}
   #hint{position:absolute;left:50%;bottom:16px;transform:translateX(-50%);font-size:11.5px;color:var(--faint);
     background:var(--glass);padding:6px 14px;border-radius:999px;border:1px solid var(--line)}
+  #gate{position:absolute;inset:0;display:flex;align-items:flex-end;justify-content:center;padding-bottom:22px;cursor:pointer;z-index:5}
+  #gate span{margin-left:374px;background:#fff;color:#0a0f14;font:700 13px Archivo,sans-serif;padding:10px 18px;border-radius:22px;box-shadow:0 6px 24px rgba(0,0,0,.4)}
   @media (max-width:820px){
     #panel{width:auto;right:14px;bottom:auto;max-height:52%}
     #card{left:14px;right:14px;top:auto;bottom:14px;width:auto}
     #hint{display:none}
+    #gate{align-items:flex-start;padding:60px 0 0}
+    #gate span{margin-left:0}
   }
 </style>
 </head>
@@ -103,6 +107,7 @@
 </div>
 
 <div id="card" hidden></div>
+<div id="gate" hidden><span>Click to explore the 3D map</span></div>
 <p id="hint">Click a deposit for its numbers</p>
 
 <script>
@@ -277,6 +282,18 @@ document.querySelectorAll(".toggle button").forEach(b => {
 
 document.getElementById("legend").innerHTML = Object.keys(STAGE_COLOUR)
   .map(s => '<span><i style="background:' + STAGE_COLOUR[s] + '"></i>' + s + '</span>').join("");
+
+// inside the page's iframe, hold the camera still until the reader asks for it, so
+// scrolling the page past the map does not zoom the globe instead
+if (window.self !== window.top) {
+  const gate = document.getElementById("gate");
+  scene.screenSpaceCameraController.enableInputs = false;
+  gate.hidden = false;
+  gate.addEventListener("click", () => {
+    gate.hidden = true;
+    scene.screenSpaceCameraController.enableInputs = true;
+  });
+}
 
 draw();
 </script>
