@@ -143,7 +143,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,exploration,Gold,,402.5,A$m
 2025-Q3,exploration,Gold,,431.4,A$m
 2025-Q4,exploration,Gold,,478.8,A$m
-2026-Q1,exploration,Gold,,450.9,A$m
+2026-Q1,exploration,Gold,,457.7,A$m
+2026-Q2,exploration,Gold,,565.6,A$m
 1990-Q1,exploration,Total metals and other minerals,,119.6,A$m
 1990-Q2,exploration,Total metals and other minerals,,150.6,A$m
 1990-Q3,exploration,Total metals and other minerals,,131.3,A$m
@@ -287,7 +288,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,exploration,Total metals and other minerals,,937.7,A$m
 2025-Q3,exploration,Total metals and other minerals,,982.9,A$m
 2025-Q4,exploration,Total metals and other minerals,,981.6,A$m
-2026-Q1,exploration,Total metals and other minerals,,899.4,A$m
+2026-Q1,exploration,Total metals and other minerals,,903.8,A$m
+2026-Q2,exploration,Total metals and other minerals,,1114.8,A$m
 1990-Q1,exports_quantity,Refined and unrefined bullion,China,0,t
 1990-Q2,exports_quantity,Refined and unrefined bullion,China,0,t
 1990-Q3,exports_quantity,Refined and unrefined bullion,China,0,t
@@ -433,6 +435,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,exports_quantity,Refined and unrefined bullion,China,8,t
 2025-Q4,exports_quantity,Refined and unrefined bullion,China,0,t
 2026-Q1,exports_quantity,Refined and unrefined bullion,China,19.0003,t
+2026-Q2,exports_quantity,Refined and unrefined bullion,China,27.2741,t
 1990-Q1,exports_quantity,Refined and unrefined bullion,Hong Kong,2.6548,t
 1990-Q2,exports_quantity,Refined and unrefined bullion,Hong Kong,6.5639,t
 1990-Q3,exports_quantity,Refined and unrefined bullion,Hong Kong,1.4808,t
@@ -578,6 +581,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,exports_quantity,Refined and unrefined bullion,Hong Kong,7.8485,t
 2025-Q4,exports_quantity,Refined and unrefined bullion,Hong Kong,20.6581,t
 2026-Q1,exports_quantity,Refined and unrefined bullion,Hong Kong,16.5333,t
+2026-Q2,exports_quantity,Refined and unrefined bullion,Hong Kong,6.3596,t
 1990-Q1,exports_quantity,Refined and unrefined bullion,Singapore,13.6066,t
 1990-Q2,exports_quantity,Refined and unrefined bullion,Singapore,14.4745,t
 1990-Q3,exports_quantity,Refined and unrefined bullion,Singapore,16.3803,t
@@ -723,6 +727,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,exports_quantity,Refined and unrefined bullion,Singapore,1.0827,t
 2025-Q4,exports_quantity,Refined and unrefined bullion,Singapore,1.2666,t
 2026-Q1,exports_quantity,Refined and unrefined bullion,Singapore,5.5231,t
+2026-Q2,exports_quantity,Refined and unrefined bullion,Singapore,0.753,t
 1990-Q1,exports_quantity,Refined and unrefined bullion,Total,53.1361,t
 1990-Q2,exports_quantity,Refined and unrefined bullion,Total,50.9123,t
 1990-Q3,exports_quantity,Refined and unrefined bullion,Total,50.1737,t
@@ -868,6 +873,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,exports_quantity,Refined and unrefined bullion,Total,66.307,t
 2025-Q4,exports_quantity,Refined and unrefined bullion,Total,54.4717,t
 2026-Q1,exports_quantity,Refined and unrefined bullion,Total,57.1456,t
+2026-Q2,exports_quantity,Refined and unrefined bullion,Total,38.4602,t
 1990-Q1,exports_quantity,Refined and unrefined bullion,United Kingdom,6.2633,t
 1990-Q2,exports_quantity,Refined and unrefined bullion,United Kingdom,0.8067,t
 1990-Q3,exports_quantity,Refined and unrefined bullion,United Kingdom,1.2863,t
@@ -1013,6 +1019,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,exports_quantity,Refined and unrefined bullion,United Kingdom,23.6206,t
 2025-Q4,exports_quantity,Refined and unrefined bullion,United Kingdom,12.773,t
 2026-Q1,exports_quantity,Refined and unrefined bullion,United Kingdom,5.0448,t
+2026-Q2,exports_quantity,Refined and unrefined bullion,United Kingdom,0.0019,t
 1990-Q1,exports_quantity,Refined and unrefined bullion,United States,0.0178,t
 1990-Q2,exports_quantity,Refined and unrefined bullion,United States,0.016,t
 1990-Q3,exports_quantity,Refined and unrefined bullion,United States,0.016,t
@@ -1158,6 +1165,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,exports_quantity,Refined and unrefined bullion,United States,19.6822,t
 2025-Q4,exports_quantity,Refined and unrefined bullion,United States,3.8221,t
 2026-Q1,exports_quantity,Refined and unrefined bullion,United States,2.3766,t
+2026-Q2,exports_quantity,Refined and unrefined bullion,United States,0.5174,t
 1990-Q1,exports_value,Refined,,825.528,A$m
 1990-Q2,exports_value,Refined,,732.291,A$m
 1990-Q3,exports_value,Refined,,741.025,A$m
@@ -1301,8 +1309,9 @@ quarter,series,category,subcategory,value,unit
 2025-Q1,exports_value,Refined,,14555.245,A$m
 2025-Q2,exports_value,Refined,,14019.434,A$m
 2025-Q3,exports_value,Refined,,14448.189,A$m
-2025-Q4,exports_value,Refined,,16504.503,A$m
-2026-Q1,exports_value,Refined,,20390.498,A$m
+2025-Q4,exports_value,Refined,,16513.253,A$m
+2026-Q1,exports_value,Refined,,20390.204,A$m
+2026-Q2,exports_value,Refined,,18306.745,A$m
 1990-Q1,imports_value,Refined and unrefined bullion,,97.896,A$m
 1990-Q2,imports_value,Refined and unrefined bullion,,73.485,A$m
 1990-Q3,imports_value,Refined and unrefined bullion,,97.388,A$m
@@ -1446,8 +1455,9 @@ quarter,series,category,subcategory,value,unit
 2025-Q1,imports_value,Refined and unrefined bullion,,3392.222,A$m
 2025-Q2,imports_value,Refined and unrefined bullion,,5921.465,A$m
 2025-Q3,imports_value,Refined and unrefined bullion,,4144.652,A$m
-2025-Q4,imports_value,Refined and unrefined bullion,,7156.007,A$m
-2026-Q1,imports_value,Refined and unrefined bullion,,7877.507,A$m
+2025-Q4,imports_value,Refined and unrefined bullion,,7157.715,A$m
+2026-Q1,imports_value,Refined and unrefined bullion,,7877.786,A$m
+2026-Q2,imports_value,Refined and unrefined bullion,,6617.15,A$m
 1990-Q1,mine_production,national,Australia,57.11,t
 1990-Q2,mine_production,national,Australia,59.387,t
 1990-Q3,mine_production,national,Australia,59.189,t
@@ -1593,6 +1603,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,mine_production,national,Australia,81.0315,t
 2025-Q4,mine_production,national,Australia,81.6918,t
 2026-Q1,mine_production,national,Australia,87.467,t
+2026-Q2,mine_production,national,Australia,89.5043,t
 1990-Q1,mine_production,state,New South Wales,2.146,t
 1990-Q2,mine_production,state,New South Wales,2.103,t
 1990-Q3,mine_production,state,New South Wales,1.778,t
@@ -1737,7 +1748,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,mine_production,state,New South Wales,6.2559,t
 2025-Q3,mine_production,state,New South Wales,6.1237,t
 2025-Q4,mine_production,state,New South Wales,6.1237,t
-2026-Q1,mine_production,state,New South Wales,5.9224,t
+2026-Q1,mine_production,state,New South Wales,6.483,t
+2026-Q2,mine_production,state,New South Wales,4.7924,t
 1990-Q1,mine_production,state,Northern Territory,4.659,t
 1990-Q2,mine_production,state,Northern Territory,4.679,t
 1990-Q3,mine_production,state,Northern Territory,4.613,t
@@ -1882,7 +1894,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,mine_production,state,Northern Territory,6.9205,t
 2025-Q3,mine_production,state,Northern Territory,8.7259,t
 2025-Q4,mine_production,state,Northern Territory,8.7259,t
-2026-Q1,mine_production,state,Northern Territory,8.7259,t
+2026-Q1,mine_production,state,Northern Territory,2.8382,t
+2026-Q2,mine_production,state,Northern Territory,3.087,t
 1990-Q1,mine_production,state,Queensland,7.408,t
 1990-Q2,mine_production,state,Queensland,7.738,t
 1990-Q3,mine_production,state,Queensland,7.249,t
@@ -2027,7 +2040,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,mine_production,state,Queensland,3.9197,t
 2025-Q3,mine_production,state,Queensland,3.5924,t
 2025-Q4,mine_production,state,Queensland,3.7323,t
-2026-Q1,mine_production,state,Queensland,3.7024,t
+2026-Q1,mine_production,state,Queensland,3.3499,t
+2026-Q2,mine_production,state,Queensland,3.3516,t
 1990-Q1,mine_production,state,South Australia,0.103,t
 1990-Q2,mine_production,state,South Australia,0.185,t
 1990-Q3,mine_production,state,South Australia,0.26,t
@@ -2172,7 +2186,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,mine_production,state,South Australia,2.9634,t
 2025-Q3,mine_production,state,South Australia,2.9634,t
 2025-Q4,mine_production,state,South Australia,2.9634,t
-2026-Q1,mine_production,state,South Australia,2.9716,t
+2026-Q1,mine_production,state,South Australia,4.1651,t
+2026-Q2,mine_production,state,South Australia,4.2849,t
 1990-Q1,mine_production,state,Tasmania,0.417,t
 1990-Q2,mine_production,state,Tasmania,0.409,t
 1990-Q3,mine_production,state,Tasmania,0.408,t
@@ -2317,7 +2332,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,mine_production,state,Tasmania,1.0253,t
 2025-Q3,mine_production,state,Tasmania,1.0253,t
 2025-Q4,mine_production,state,Tasmania,1.0253,t
-2026-Q1,mine_production,state,Tasmania,1.0253,t
+2026-Q1,mine_production,state,Tasmania,1.0013,t
+2026-Q2,mine_production,state,Tasmania,1.0546,t
 1990-Q1,mine_production,state,Victoria,0.846,t
 1990-Q2,mine_production,state,Victoria,0.92,t
 1990-Q3,mine_production,state,Victoria,1.08,t
@@ -2462,7 +2478,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,mine_production,state,Victoria,1.5855,t
 2025-Q3,mine_production,state,Victoria,1.5855,t
 2025-Q4,mine_production,state,Victoria,1.5855,t
-2026-Q1,mine_production,state,Victoria,1.5855,t
+2026-Q1,mine_production,state,Victoria,1.8978,t
+2026-Q2,mine_production,state,Victoria,1.901,t
 1990-Q1,mine_production,state,Western Australia,41.531,t
 1990-Q2,mine_production,state,Western Australia,43.353,t
 1990-Q3,mine_production,state,Western Australia,43.801,t
@@ -2607,7 +2624,8 @@ quarter,series,category,subcategory,value,unit
 2025-Q2,mine_production,state,Western Australia,56.4755,t
 2025-Q3,mine_production,state,Western Australia,57.0153,t
 2025-Q4,mine_production,state,Western Australia,57.5356,t
-2026-Q1,mine_production,state,Western Australia,63.534,t
+2026-Q1,mine_production,state,Western Australia,52.2976,t
+2026-Q2,mine_production,state,Western Australia,55.8042,t
 1990-Q1,price,Australia,,530.027,A$/oz
 1990-Q2,price,Australia,,474.913,A$/oz
 1990-Q3,price,Australia,,472.558,A$/oz
@@ -2753,6 +2771,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,price,Australia,,5286.219,A$/oz
 2025-Q4,price,Australia,,6324.952,A$/oz
 2026-Q1,price,Australia,,7006.151,A$/oz
+2026-Q2,price,Australia,,6351.993,A$/oz
 1990-Q1,price,LBMA PM,,407.33,US$/oz
 1990-Q2,price,LBMA PM,,366.527,US$/oz
 1990-Q3,price,LBMA PM,,382.46,US$/oz
@@ -2898,6 +2917,7 @@ quarter,series,category,subcategory,value,unit
 2025-Q3,price,LBMA PM,,3455.5,US$/oz
 2025-Q4,price,LBMA PM,,4141.904,US$/oz
 2026-Q1,price,LBMA PM,,4875.387,US$/oz
+2026-Q2,price,LBMA PM,,4600,US$/oz
 1990-Q1,refinery_output,by origin,"Primary, Australian origin",54.817,t
 1990-Q2,refinery_output,by origin,"Primary, Australian origin",59.209,t
 1990-Q3,refinery_output,by origin,"Primary, Australian origin",56.19,t
@@ -3030,14 +3050,14 @@ quarter,series,category,subcategory,value,unit
 2022-Q2,refinery_output,by origin,"Primary, Australian origin",53.5424,t
 2022-Q3,refinery_output,by origin,"Primary, Australian origin",52.3491,t
 2022-Q4,refinery_output,by origin,"Primary, Australian origin",50.5239,t
-2023-Q1,refinery_output,by origin,"Primary, Australian origin",50.5746,t
-2023-Q2,refinery_output,by origin,"Primary, Australian origin",53.4199,t
-2023-Q3,refinery_output,by origin,"Primary, Australian origin",50.6459,t
-2023-Q4,refinery_output,by origin,"Primary, Australian origin",51.1054,t
-2024-Q1,refinery_output,by origin,"Primary, Australian origin",48.0044,t
-2024-Q2,refinery_output,by origin,"Primary, Australian origin",48.4005,t
-2024-Q3,refinery_output,by origin,"Primary, Australian origin",48.7097,t
-2024-Q4,refinery_output,by origin,"Primary, Australian origin",48.9267,t
+2023-Q1,refinery_output,by origin,"Primary, Australian origin",50.1666,t
+2023-Q2,refinery_output,by origin,"Primary, Australian origin",53.0349,t
+2023-Q3,refinery_output,by origin,"Primary, Australian origin",50.2069,t
+2023-Q4,refinery_output,by origin,"Primary, Australian origin",50.6424,t
+2024-Q1,refinery_output,by origin,"Primary, Australian origin",47.5984,t
+2024-Q2,refinery_output,by origin,"Primary, Australian origin",47.9945,t
+2024-Q3,refinery_output,by origin,"Primary, Australian origin",48.4007,t
+2024-Q4,refinery_output,by origin,"Primary, Australian origin",48.5327,t
 2025-Q1,refinery_output,by origin,"Primary, Australian origin",99.1171,t
 2025-Q2,refinery_output,by origin,"Primary, Australian origin",43.9732,t
 2025-Q3,refinery_output,by origin,"Primary, Australian origin",42.2243,t
@@ -3602,14 +3622,14 @@ quarter,series,category,subcategory,value,unit
 2022-Q2,refinery_output,by origin,Total,68.0266,t
 2022-Q3,refinery_output,by origin,Total,64.3625,t
 2022-Q4,refinery_output,by origin,Total,60.657,t
-2023-Q1,refinery_output,by origin,Total,61.9986,t
-2023-Q2,refinery_output,by origin,Total,64.3924,t
-2023-Q3,refinery_output,by origin,Total,61.4997,t
-2023-Q4,refinery_output,by origin,Total,62.3063,t
-2024-Q1,refinery_output,by origin,Total,59.7398,t
-2024-Q2,refinery_output,by origin,Total,58.8854,t
-2024-Q3,refinery_output,by origin,Total,59.2165,t
-2024-Q4,refinery_output,by origin,Total,59.7329,t
+2023-Q1,refinery_output,by origin,Total,61.5906,t
+2023-Q2,refinery_output,by origin,Total,64.0074,t
+2023-Q3,refinery_output,by origin,Total,61.0607,t
+2023-Q4,refinery_output,by origin,Total,61.8433,t
+2024-Q1,refinery_output,by origin,Total,59.3338,t
+2024-Q2,refinery_output,by origin,Total,58.4794,t
+2024-Q3,refinery_output,by origin,Total,58.9075,t
+2024-Q4,refinery_output,by origin,Total,59.3389,t
 2025-Q1,refinery_output,by origin,Total,124.8785,t
 2025-Q2,refinery_output,by origin,Total,54.6008,t
 2025-Q3,refinery_output,by origin,Total,53.1536,t
